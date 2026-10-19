@@ -1,1 +1,14 @@
-{"company":{"name":"삼성전자","corp_code":"00126380","stock_code":"005930"},"updated_at":null,"from_year":2010,"to_year":null,"record_count":0,"filing_count":0,"source":"OpenDART","status":"데이터는 GitHub Actions 실행 후 채워집니다."}
+{
+  "company": {
+    "name": "삼성전자",
+    "corp_code": "00126380",
+    "stock_code": "005930"
+  },
+  "updated_at": "2026-10-19T02:31:38.733907+00:00",
+  "from_year": 2010,
+  "to_year": 2026,
+  "record_count": 484,
+  "filing_count": 0,
+  "source": "OpenDART",
+  "notes": "CFS 우선, 연결재무제표가 없을 때 OFS를 조회. 재무비율은 동일 보고서 내 항목이 모두 존재할 때만 계산."
+}
